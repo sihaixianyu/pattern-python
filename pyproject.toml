@@ -1,0 +1,5 @@
+[project]
+name = "pattern-python"
+version = "0.1.0"
+description = "A description of your project"
+authors = [{ name = "sihaixianyu", email = "sihaixianyu@gmail.com" }]
